@@ -1,0 +1,14 @@
+.node{
+	background: url(boxLarge.png);
+	width: 40px;
+	height:40px;
+	position: fixed;
+	z-index: 10;
+}
+
+.number{
+	padding-top:12px;
+	padding-left:16px;
+	position: fixed;
+	z-index: 11;
+}
